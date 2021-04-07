@@ -1,1 +1,1 @@
-# deneme
+# Yoga Life Landing Page
